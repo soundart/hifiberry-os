@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-BRUTEFIR_VERSION = 21f5a980371da9d3705cf87c2dc36252b343bfad
+BRUTEFIR_VERSION = fb0fed3a4e008cd1c4d7cad234eb28de2e2bf432
 BRUTEFIR_SITE = https://github.com/soundart/brutefir.git
 BRUTEFIR_SITE_METHOD = git
 BRUTEFIR_DEPENDENCIES =
